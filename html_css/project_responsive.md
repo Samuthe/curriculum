@@ -127,6 +127,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
 * [Timework's Solution](https://github.com/Timework/responsive-design) - [View in Browser](https://timework.github.io/responsive-design/)
 * [Sanyogita's Solution](https://github.com/SanyogitaPandit/html-css/tree/master/responsive_design)
 * [icepick-pauly's Solution](https://github.com/icepick-pauly/top_htmlcss_responsivedesign) - [View in Browser](https://icepick-pauly.github.io/top_htmlcss_responsivedesign/)
+* [Samuthe's Solution](https://github.com/Samuthe/Magazine-Project.git)
 </details>
 
 ### Additional Resources
