@@ -108,6 +108,7 @@ Submit a link below to [this file](https://github.com/TheOdinProject/curriculum/
 * [Timework's Solution](https://github.com/Timework/newsweek-bootstrap) - [View in Browser](https://timework.github.io/newsweek-bootstrap/)
 * [Sanyogita's Solution](https://github.com/SanyogitaPandit/html-css/tree/master/using-bootstrap)
 * [icepick-pauly's Solution](https://github.com/icepick-pauly/top_htmlcss_newsweekclone) - [View in Browser](https://icepick-pauly.github.io/top_htmlcss_newsweekclone/)
+* [Samuthe's Solution](https://github.com/Samuthe/Bootsrap-Website.git)
 </details>
 
 ### Additional Resources
